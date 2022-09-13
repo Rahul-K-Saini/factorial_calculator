@@ -23,6 +23,12 @@ function cal() {
     }
 }
 
+//    for (let i = inputValue - 1; i >= 1; i--) {
+//      inputValue *= i;
+ //     finalOutput.innerHTML = inputValue;
+ //   }
+//}
+
 
 
 // function cal() {
