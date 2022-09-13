@@ -17,6 +17,7 @@ body{
     align-items: center;
     background-color: black;
     flex-direction:column ;
+    transition:0.2s;
 }
 
 .container{
