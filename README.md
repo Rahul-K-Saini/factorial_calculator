@@ -1,1 +1,3 @@
 # factorial_calculator
+this is a web app that calculates the factorial of any number i tried but this is not working properly even its only working in firefox not in chrome....
+and in firefox too not working as i want it to work you can see the code and improve it to make it work properly...i would appreciate that..thankyou
